@@ -1,2 +1,2 @@
-# gigs
+# Gigs
 BSC Trio Gigs
