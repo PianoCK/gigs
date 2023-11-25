@@ -1,5 +1,5 @@
 {
-    "gigs": [
+    "posts": [
         {
             "date": "08.01.2023",
             "venue": "Kulturladen Leuchtturm",
@@ -45,5 +45,8 @@
             "venue": "Kieler Woche",
             "city": "Hoftheater, Hiroshimapark Kiel"
         }
-    ]
+    ],
+    "profile": {
+        "name": "PianoCK"
+    }
 }
